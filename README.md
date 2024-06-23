@@ -85,4 +85,6 @@ streamlit run main.py
 
 ## Streamlit App Demo
 
-https://github.com/Komalsai234/PDF-Question-Generator/blob/main/streamli-app-demo.mp4
+https://github.com/Komalsai234/PDF-Question-Generator/assets/99163734/8741f837-f0c9-4efe-96d9-58b4ac2792ca
+
+
