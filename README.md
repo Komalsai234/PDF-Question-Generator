@@ -83,7 +83,7 @@ streamlit run main.py
 - Optionally, download the questions as a text file.
 
 
-### ![The .zip file used for creating the layer in this application can be found here](https://github.com/Komalsai234/PDF-Question-Generator/blob/d36fc9d69fc51a8bde7e9c80ed5037bdda4c6fb4/demo.mp4)
+### my_packages.zip: This id the .zip file used for creating the layer in this application
 
 
 ## Streamlit App Demo
