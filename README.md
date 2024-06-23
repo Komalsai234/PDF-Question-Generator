@@ -85,4 +85,4 @@ streamlit run main.py
 
 ## Streamlit App Demo
 
-https://github.com/Komalsai234/Waste-Segregation-using-ROS2/assets/99163734/fabde290-824a-4a4c-80e2-5d0a1ec6fafe
+https://github.com/Komalsai234/PDF-Question-Generator/blob/main/streamli-app-demo.mp4
