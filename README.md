@@ -83,7 +83,7 @@ streamlit run main.py
 - Optionally, download the questions as a text file.
 
 
-### my_packages.zip: This is the .zip file used for creating the layer in this application
+### my_packages.zip: This is the .zip file used for creating the layer for Lambda Function
 
 
 ## Streamlit App Demo
