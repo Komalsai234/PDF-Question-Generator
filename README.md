@@ -2,7 +2,7 @@
 # PDF Question Generator
 
 ## Abstract
-The PDF Question Generator is an automated tool that processes PDF documents to generate relevant interview and exam preparation questions. Utilizing advanced machine learning models, this system efficiently analyzes PDF content and formulates meaningful questions, aiding users in their study and preparation efforts.
+The PDF Question Generator is an automated tool that processes PDF documents to generate relevant interview and exam preparation questions. Utilizing LLM Models and RAG techniques, this system efficiently analyzes PDF content and formulates meaningful questions, aiding users in their study and preparation efforts.
 
 ## Introduction
 The PDF Question Generator project aims to simplify the process of creating study and interview questions from PDF documents. By leveraging AWS Lambda, API Gateway, and Streamlit, this tool provides an easy-to-use interface for users to upload PDF files and receive generated questions. This project combines modern cloud services and machine learning to deliver a practical solution for students, educators, and professionals preparing for exams or interviews.
